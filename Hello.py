@@ -1,1 +1,1 @@
-#hello world program
+print(24 * 7)
