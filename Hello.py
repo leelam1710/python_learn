@@ -3,4 +3,4 @@ week_days = 7
 
 week_hours = day_hours * week_days
 
-print(week_hours)
+print("No of hours in a week: " + week_hours)
